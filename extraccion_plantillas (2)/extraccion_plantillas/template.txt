@@ -1,0 +1,5 @@
+Generated Document
+
+Name: {name}
+Date: {date}
+Location: {location}
